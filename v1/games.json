@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "revision": 1,
+  "games": [
+    {
+      "id": "game-001",
+      "slug": "snake-game",
+      "title": {
+        "ru": "Змейка",
+        "tg": "Морбозӣ",
+        "en": "Snake Game"
+      },
+      "description": {
+        "ru": "Управляй змейкой и собирай очки.",
+        "tg": "Морро идора кун ва хол ҷамъ намо.",
+        "en": "Control the snake and collect points."
+      },
+      "image": "https://example.com/snake.png",
+      "url": "https://example.vercel.app",
+      "version": "1.0.0",
+      "published_at": "2026-11-02",
+      "category_id": "arcade",
+      "featured": true,
+      "status": "published",
+      "orientation": "portrait"
+    }
+  ]
+}

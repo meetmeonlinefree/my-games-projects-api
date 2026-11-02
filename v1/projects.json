@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "revision": 1,
+  "projects": [
+    {
+      "id": "project-001",
+      "type": "website",
+      "title": {
+        "ru": "Калькулятор",
+        "tg": "Ҳисобкунак",
+        "en": "Calculator"
+      },
+      "description": {
+        "ru": "Простой веб-калькулятор.",
+        "tg": "Ҳисобкунаки одии веб.",
+        "en": "A simple web calculator."
+      },
+      "image": "https://example.com/calculator.png",
+      "url": "https://example.vercel.app",
+      "github_url": "",
+      "status": "published",
+      "featured": false
+    }
+  ]
+}

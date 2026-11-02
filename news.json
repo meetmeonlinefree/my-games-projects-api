@@ -1,0 +1,16 @@
+{
+  "news": [
+    {
+      "title": "➤ Telegram | 💰 Hamyon Online | Курсы валют",
+      "body": "Следите за новостями в нашем Telegram-канале: https://t.me/hamyononline",
+      "url": "https://t.me/hamyononline",
+      "send_push": true
+    },
+    {
+      "title": "Акция",
+      "body": "Скидка 20% на переводы",
+      "url": "https://example.com/promo",
+      "send_push": false
+    }
+  ]
+}

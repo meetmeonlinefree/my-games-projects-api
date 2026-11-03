@@ -18,7 +18,7 @@
       "image": "https://raw.githubusercontent.com/polefagus/my-games/refs/heads/main/snake.jpg",
       "url": "https://polefagus.netlify.app",
       "version": "1.0.0",
-      "published_at": "2026-11-02",
+      "published_at": "2026-11-03",
       "category_id": "arcade",
       "featured": true,
       "status": "published",
@@ -40,7 +40,29 @@
       "image": "https://raw.githubusercontent.com/polefagus/my-games/refs/heads/main/space_battle.jpg",
       "url": "https://polefagusspacebattle.netlify.app/",
       "version": "1.0.0",
-      "published_at": "2026-11-02",
+      "published_at": "2026-11-03",
+      "category_id": "arcade",
+      "featured": true,
+      "status": "published",
+      "orientation": "portrait"
+    },
+    {
+      "id": "game-003",
+      "slug": "super-platformer-game",
+      "title": {
+        "ru": "Супер Платформер",
+        "tg": "Супер Платформер",
+        "en": "Super Platformer"
+      },
+      "description": {
+        "ru": "Супер Платформер",
+        "tg": "Супер Платформер",
+        "en": "Super Platformer"
+      },
+      "image": "https://raw.githubusercontent.com/polefagus/my-games/refs/heads/main/super_platformer.jpg",
+      "url": "https://polefagussuperplatformer.netlify.app",
+      "version": "1.0.0",
+      "published_at": "2026-11-03",
       "category_id": "arcade",
       "featured": true,
       "status": "published",

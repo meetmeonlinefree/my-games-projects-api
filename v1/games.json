@@ -4,6 +4,28 @@
   "games": [
     {
       "id": "game-001",
+      "slug": "snake-game",
+      "title": {
+        "ru": "Змейка",
+        "tg": "Морбози",
+        "en": "Snake"
+      },
+      "description": {
+        "ru": "Змейка",
+        "tg": "Морбози",
+        "en": "Snake"
+      },
+      "image": "https://raw.githubusercontent.com/polefagus/my-games/refs/heads/main/snake.jpg",
+      "url": "https://polefagus.netlify.app",
+      "version": "1.0.0",
+      "published_at": "2026-11-02",
+      "category_id": "arcade",
+      "featured": true,
+      "status": "published",
+      "orientation": "portrait"
+    },
+    {
+      "id": "game-002",
       "slug": "space-battle-game",
       "title": {
         "ru": "Космическая битва",
@@ -16,7 +38,7 @@
         "en": "Space Battle"
       },
       "image": "https://raw.githubusercontent.com/polefagus/my-games/refs/heads/main/space_battle.jpg",
-      "url": "https://polefagus.netlify.app",
+      "url": "https://polefagusspacebattle.netlify.app/",
       "version": "1.0.0",
       "published_at": "2026-11-02",
       "category_id": "arcade",

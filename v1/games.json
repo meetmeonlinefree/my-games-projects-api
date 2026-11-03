@@ -4,19 +4,19 @@
   "games": [
     {
       "id": "game-001",
-      "slug": "snake-game",
+      "slug": "space-battle-game",
       "title": {
-        "ru": "Змейка",
-        "tg": "Морбозӣ",
-        "en": "Snake Game"
+        "ru": "Космическая битва",
+        "tg": "ҷанги кайҳонӣ",
+        "en": "Space Battle"
       },
       "description": {
-        "ru": "Управляй змейкой и собирай очки.",
-        "tg": "Морро идора кун ва хол ҷамъ намо.",
-        "en": "Control the snake and collect points."
+        "ru": "Космическая битва",
+        "tg": "ҷанги кайҳонӣ",
+        "en": "Space Battle"
       },
-      "image": "https://play-lh.googleusercontent.com/8zD_5enAqjkITqSYrsj0va5exlVV6ANDSuamgrTtw_fRDsgITzs8_ybfqTyUCmseYm-LQS-Xx65Ut0pDCmvx=w240-h480-rw",
-      "url": "https://english-from-zero-theta.vercel.app/privacy.html",
+      "image": "https://raw.githubusercontent.com/polefagus/my-games/refs/heads/main/space_battle.jpg",
+      "url": "https://polefagus.netlify.app",
       "version": "1.0.0",
       "published_at": "2026-11-02",
       "category_id": "arcade",

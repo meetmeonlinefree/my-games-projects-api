@@ -67,6 +67,28 @@
       "featured": true,
       "status": "published",
       "orientation": "portrait"
+    },
+    {
+      "id": "game-004",
+      "slug": "world-adventure-game",
+      "title": {
+        "ru": "Мир приключений",
+        "tg": "Cаргузашти чахони",
+        "en": "World  adventure"
+      },
+      "description": {
+        "ru": "Мир приключений",
+        "tg": "Cаргузашти чахони",
+        "en": "World  adventure"
+      },
+      "image": "https://raw.githubusercontent.com/polefagus/world_adventure/refs/heads/main/world_adventure.jpg",
+      "url": "https://polefagusworldadventure.netlify.app",
+      "version": "1.0.0",
+      "published_at": "2026-11-04",
+      "category_id": "arcade",
+      "featured": true,
+      "status": "published",
+      "orientation": "portrait"
     }
   ]
 }

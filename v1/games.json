@@ -89,6 +89,28 @@
       "featured": true,
       "status": "published",
       "orientation": "portrait"
+    },
+    {
+      "id": "game-005",
+      "slug": "neon-drift-game",
+      "title": {
+        "ru": "Неоновый дрифт",
+        "tg": "Дрейфи неонӣ",
+        "en": "Neon drift"
+      },
+      "description": {
+        "ru": "Неоновый дрифт",
+        "tg": "Дрейфи неонӣ",
+        "en": "Neon drift"
+      },
+      "image": "https://raw.githubusercontent.com/polefagus/neon_drift/refs/heads/main/neon_drift.jpg",
+      "url": "https://polefagusneondrift.netlify.app",
+      "version": "1.0.0",
+      "published_at": "2026-11-04",
+      "category_id": "arcade",
+      "featured": true,
+      "status": "published",
+      "orientation": "portrait"
     }
   ]
 }

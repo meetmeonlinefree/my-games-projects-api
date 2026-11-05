@@ -6,20 +6,20 @@
       "id": "project-001",
       "type": "website",
       "title": {
-        "ru": "Калькулятор",
-        "tg": "Ҳисобкунак",
-        "en": "Calculator"
+        "ru": "Английский язык с 0 до уровня Advanced",
+        "tg": "Забони англиси аз 0 то сатхи Мукаммал",
+        "en": "English language from 0 to Advanced level"
       },
       "description": {
-        "ru": "Простой веб-калькулятор.",
-        "tg": "Ҳисобкунаки одии веб.",
-        "en": "A simple web calculator."
+        "ru": "Английский язык с 0 до уровня Advanced",
+        "tg": "Забони англиси аз 0 то сатхи Мукаммал",
+        "en": "English language from 0 to Advanced level"
       },
-      "image": "https://play-lh.googleusercontent.com/8zD_5enAqjkITqSYrsj0va5exlVV6ANDSuamgrTtw_fRDsgITzs8_ybfqTyUCmseYm-LQS-Xx65Ut0pDCmvx=w240-h480-rw",
-      "url": "https://english-from-zero-theta.vercel.app",
+      "image": "https://raw.githubusercontent.com/polefagus/polefagus/refs/heads/main/images/english_quest.jpg",
+      "url": "https://polefagus.github.io/polefagus/englishquest.html",
       "github_url": "",
       "status": "published",
-      "featured": false
+      "featured": true
     }
   ]
 }

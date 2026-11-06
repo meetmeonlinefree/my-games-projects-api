@@ -6,9 +6,9 @@
       "id": "project-001",
       "type": "website",
       "title": {
-        "ru": "Английский язык с 0 до уровня Advanced",
-        "tg": "Забони англиси аз 0 то сатхи Мукаммал",
-        "en": "English language from 0 to Advanced level"
+        "ru": "Английский язык с 0 до уровня Advanced Урок 5",
+        "tg": "Забони англиси аз 0 то сатхи Мукаммал Дарси 5",
+        "en": "English language from 0 to Advanced level Lesson 5"
       },
       "description": {
         "ru": "Английский язык с 0 до уровня Advanced",
@@ -17,6 +17,25 @@
       },
       "image": "https://raw.githubusercontent.com/polefagus/polefagus/refs/heads/main/images/english_quest.jpg",
       "url": "https://polefagus.github.io/polefagus/englishquest.html",
+      "github_url": "",
+      "status": "published",
+      "featured": true
+    },
+    {
+      "id": "project-002",
+      "type": "website",
+      "title": {
+        "ru": "Английский язык с 0 до уровня Advanced Урок 5.1",
+        "tg": "Забони англиси аз 0 то сатхи Мукаммал Дарси 5.1",
+        "en": "English language from 0 to Advanced level Lesson 5.1"
+      },
+      "description": {
+        "ru": "Английский язык с 0 до уровня Advanced Урок 5.1",
+        "tg": "Забони англиси аз 0 то сатхи Мукаммал Дарси 5.1",
+        "en": "English language from 0 to Advanced level Lesson 5.1"
+      },
+      "image": "https://raw.githubusercontent.com/polefagus/polefagus/refs/heads/main/images/englishquiz5_1.jpg",
+      "url": "https://meetmeonlinefree.github.io/meetmeonlinefree/lesson5_1.html",
       "github_url": "",
       "status": "published",
       "featured": true

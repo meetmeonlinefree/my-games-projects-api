@@ -96,6 +96,25 @@
       "github_url": "",
       "status": "published",
       "featured": true
+    },
+    {
+      "id": "project-006",
+      "type": "website",
+      "title": {
+        "ru": "Английский язык с 0 до уровня Advanced Урок 6.1",
+        "tg": "Забони англиси аз 0 то сатхи Мукаммал Дарси 6.1",
+        "en": "English language from 0 to Advanced level Lesson 6.1"
+      },
+      "description": {
+        "ru": "Английский язык с 0 до уровня Advanced Урок 6.1",
+        "tg": "Забони англиси аз 0 то сатхи Мукаммал Дарси 6.1",
+        "en": "English language from 0 to Advanced level Lesson 6.1"
+      },
+      "image": "https://raw.githubusercontent.com/polefagus/polefagus/refs/heads/main/images/englishquizlesson6_1.jpg",
+      "url": "https://meetmeonlinefree.github.io/meetmeonlinefree/projects/lesson6_1/index.html",
+      "github_url": "",
+      "status": "published",
+      "featured": true
     }
   ]
 }

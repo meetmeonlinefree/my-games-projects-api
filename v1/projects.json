@@ -115,6 +115,25 @@
       "github_url": "",
       "status": "published",
       "featured": true
+    },
+    {
+      "id": "project-007",
+      "type": "website",
+      "title": {
+        "ru": "Английский язык с 0 до уровня Advanced Урок 7.1",
+        "tg": "Забони англиси аз 0 то сатхи Мукаммал Дарси 7.1",
+        "en": "English language from 0 to Advanced level Lesson 7.1"
+      },
+      "description": {
+        "ru": "Английский язык с 0 до уровня Advanced Урок 7.1",
+        "tg": "Забони англиси аз 0 то сатхи Мукаммал Дарси 7.1",
+        "en": "English language from 0 to Advanced level Lesson 7.1"
+      },
+      "image": "https://raw.githubusercontent.com/polefagus/polefagus/refs/heads/main/images/englishquizlesson7_1.jpg",
+      "url": "https://polefagus.github.io/polefagus/projects/englishquizlesson7_1.html",
+      "github_url": "",
+      "status": "published",
+      "featured": true
     }
   ]
 }
